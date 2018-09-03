@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1535980578 source:c:\users\alumno\desktop\programacion-y-lab-i\clase 4\funciones y bibliotecas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1535980058 c:\users\alumno\desktop\programacion-y-lab-i\clase 4\funciones y bibliotecas\biblioteca.h
+
+1535980666 source:c:\users\alumno\desktop\programacion-y-lab-i\clase 4\funciones y bibliotecas\biblioteca.c
+	<stdio.h>
+	"biblioteca.h"
+

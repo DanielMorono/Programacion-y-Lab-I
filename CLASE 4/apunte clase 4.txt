@@ -1,0 +1,25 @@
+Como crear funcion
+Lo que retorta - nombre - lo que recibe
+
+siempre tiene prioridad la variable local a la global
+
+los parametros formales siempre son los mismos los que cambian son los actuales (cuando se llaman)
+
+new file .h para crear biblioteca
+
+biblioteca.c guarda el cordigo , las funciones implementadas
+
+para incluir biblotecas dentro del mismo proyecto usar "biblioteca.h"
+
+incluir stdio en biblioteca.c y tambien biblioteca.c
+
+Por que separamos en .h y .c?
+para ocultar el codigo, y el resto no sepan como esta formada la funcion
+
+una funcion es un modulo de codigo que se llama desde cualquier otra funcion
+
+MANERA FACIL DE DOCUMENTAR UNA FUNCION:
+
+selecciono la funcion y tocamos /** 
+
+ES MUY IMPORTANTE DOCUMENTAR TODA FUNSION
