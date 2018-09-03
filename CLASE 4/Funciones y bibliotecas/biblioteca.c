@@ -9,3 +9,10 @@ int pedirEntero (char texto[])
 
     return numero;
 }
+
+int incrementarValor(int x)
+{
+
+    x++;
+    return x;
+}

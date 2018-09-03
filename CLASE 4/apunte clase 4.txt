@@ -23,3 +23,14 @@ MANERA FACIL DE DOCUMENTAR UNA FUNCION:
 selecciono la funcion y tocamos /** 
 
 ES MUY IMPORTANTE DOCUMENTAR TODA FUNSION
+
+declarar un puntero: se pone un * delante de la variable int*
+
+/(*y)++
+
+para usar el valor que tiene guardado la memoria
+
+long float, long int (da mas espacio)
+long long int si todavia queda chico
+
+recursividad , es cuando una funcion se llama a si misma
