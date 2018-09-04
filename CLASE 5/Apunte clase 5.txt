@@ -1,0 +1,29 @@
+------------------04/09-------------------
+
+Puntero:
+Es una variable que guarda una direccion de memoria, que permite modificar una variable dentro del main
+los punteros se declara con un * EJ: int* a // adentro de la funcion *a ( para ver el valor dentro del puntero)
+
+La memoria trabajo con el concepto de "pila" (estatico)
+
+QUE ES UN VECTOR ?
+un conjunto de elementos(sub indice) del mismo tipo que responden bajo el mismo nombre
+
+indexan en 0
+
+el primer elemento se llama limite inferior = 0 y el ultimo limite superior
+
+un vector se decalara con [] EJ: int vector [5];
+
+como acceder ? vector[2]=9;
+
+se puede relacionar vectores, se los llama vectores paralelos
+
+un vector es un puntero
+
+#define remplaza el valor en el codigo
+
+la carga secuencial de vectores siempre para cargar y mostrar una un for
+
+un vector se puede definir para probar que todo funciones EJ: int venctor [10] = {1,2,3,4,5,6,7,8,9,10} (iniciar por extencion)
+
