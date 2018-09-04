@@ -27,3 +27,11 @@ la carga secuencial de vectores siempre para cargar y mostrar una un for
 
 un vector se puede definir para probar que todo funciones EJ: int venctor [10] = {1,2,3,4,5,6,7,8,9,10} (iniciar por extencion)
 
+CARGA ALEATORIA DE TAREA
+
+swap (analogia vasos) intercambia valores
+c=b;
+b=a;
+a=c;
+
+EL JUEVES SE ENTREGA EL TRABAJO

@@ -4,15 +4,32 @@
 
 int main()
 {
-    int vector [T];
+    int vector [T] = {4,2,3,1,5,34,33,8,9,12};
     int i;
+    int j;
+    int aux; //tiene que ser del mismo tipo de datos que estoy ordenando
 
-   for (i=0;i<T;i++)
+    for (i=0; i<T-1 ;i++)     //ORDENAR CON METODO DE BURBUJEO
+    {
+      for (j=i+1 ; j<T ; j++)
+        {
+            if (vector[i] < vector[j])
+            {
+                aux = vector[i];                    //SWAP
+                vector[i]=vector[j];
+                vector[j]= aux;
+            }
+        }
+
+    }
+
+
+   /*for (i=0;i<T;i++)
     {
         printf("Ingrese un numero: \n");
         scanf("%d",&vector[i]);
     }
-printf("\n Todos los numeros: %d\n",vector[i]);
+printf("\n Todos los numeros: \n");
     for (i=0;i<T;i++)
     {
         printf("%d\n",vector[i]);
@@ -24,6 +41,6 @@ printf("\n Todos los numeros pares: \n");
         {
         printf("%d\n",vector[i]);
         }
-    }
+    }*/
         return 0;
 }
