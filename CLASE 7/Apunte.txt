@@ -1,0 +1,11 @@
+----------------11/09/18------------------------
+isdigit = me dice si es un numero o no
+atoi = parseint
+
+#include <ctype.h> Biblioteca para usar toupper
+------------------------------------------
+Metodo para ordenar vectores para atras insertion
+
+-----------------------------------------
+
+Vectores paralelos : son vectores que se corresponden entre si en donde cada elemento de un vector tiene relacion.

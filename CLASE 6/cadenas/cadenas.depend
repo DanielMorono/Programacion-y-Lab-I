@@ -1,5 +1,6 @@
 # depslib dependency file v1.0
-1536600640 source:c:\users\alumno\desktop\programacion-y-lab-i\clase 6\cadenas\main.c
+1536666327 source:c:\users\alumno\desktop\programacion-y-lab-i\clase 6\cadenas\main.c
 	<stdio.h>
 	<stdlib.h>
+	<string.h>
 

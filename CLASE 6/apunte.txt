@@ -1,7 +1,8 @@
 10/09
 ---------COMANDOS DE CADENA DE CARACTERS(Biblioteca <string.h>)-------------
 strlen
-strcpy
+strcpy       (copiar seguro EJ : cadena1,cadena2,caracteres)
+strcopy
 strcmp/stricmp
 strupr            (paso todo a mayuscula)
 strlwr             (paso todo a minuscula)
@@ -19,3 +20,5 @@ declarar 3 variables, en las priemras dos tienen que guardar nombre y apellido y
 la tercera variable va a ser apellido y nombre
 las dos primeras no las podemos tocar, la que podemos modificar es apellido y nombre
 la tercera tiene que se Apellido, Nombre Nombre
+
+-------------------------------------------------------------------------
