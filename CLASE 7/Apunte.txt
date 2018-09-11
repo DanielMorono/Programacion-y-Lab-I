@@ -9,3 +9,5 @@ Metodo para ordenar vectores para atras insertion
 -----------------------------------------
 
 Vectores paralelos : son vectores que se corresponden entre si en donde cada elemento de un vector tiene relacion.
+
+si a la mascara le pongo un valor entre el % y el tipo, es la cantidad que va a ocupar en la pantalla
