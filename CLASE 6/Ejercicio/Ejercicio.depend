@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1536605306 source:c:\users\dani\desktop\programacion-y-lab-i\clase 6\ejercicio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
