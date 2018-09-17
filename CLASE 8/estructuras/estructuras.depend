@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1537207159 source:c:\users\alumno\desktop\programacion-y-lab-i\clase 8\estructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumno.h"
+
+1537207172 source:c:\users\alumno\desktop\programacion-y-lab-i\clase 8\estructuras\alumno.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumno.h"
+
+1537207039 c:\users\alumno\desktop\programacion-y-lab-i\clase 8\estructuras\alumno.h
+
