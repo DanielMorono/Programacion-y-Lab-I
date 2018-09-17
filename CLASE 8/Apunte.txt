@@ -1,0 +1,12 @@
+----------------------- 17/09 -------------------------------------
+Dejar comentarios como enunciado en las estructuras
+
+al pedir datos para la estructura se usa & pero no para una cadena de char
+.-
+-
+-
+-
+
+MODIFICAR
+1 Pedir legajo
+2 buscar el legajo ( Si existe pido nota nueva, si no tiro error)
