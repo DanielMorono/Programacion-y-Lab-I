@@ -1,0 +1,2 @@
+-----------------18/09----------------------
+Las estructuras son datos que se pasan por valor, los array se pasan por referencia

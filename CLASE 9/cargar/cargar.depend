@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537277338 source:c:\users\alumno\desktop\programacion-y-lab-i\clase 9\cargar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

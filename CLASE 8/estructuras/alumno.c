@@ -72,3 +72,21 @@ for (i=0; i<tam-1 ;i++)
     }
 }
 
+void modificarListadoDeAlumnos (sAlumno listado[],int tam)
+{
+    int legajo;
+    int i;
+    printf("Ingrese un legajo a buscar: ");
+    scanf("%d", &legajo);
+    for(i=0; i<tam; i++)
+    {
+        if(legajo == listado[i].legajo)
+        {
+            //mostrar el alumno
+            //pedir nueva nota
+            //pregunto si esta seguro de realizar la modificacion
+            //si hago la asignacion
+            //no aviso que se cancelo
+        }
+    }
+}
